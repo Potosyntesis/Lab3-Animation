@@ -218,6 +218,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   VelX: 0
   VelZ: 0
+  smooth: 1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
